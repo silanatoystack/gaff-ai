@@ -8,7 +8,7 @@ global.owner = [['212717457920', 'noureddine Ouafy', true]];
 
 global.namebot = 'gaff ai';
 global.author = 'Noureddine ouafy';
-global.source = 'https://chat.whatsapp.com/LMHgXQXQ2wt6IBJbJQFkOm?s=cl&p=a&mlu=3';
+global.source = 'https://chat.whatsapp.com/CiSz7Jf174vGGKdjsPqUH2?s=cl&p=a&mlu=3';
 
 global.wait = 'Loading... | جاري الانتظار';
 global.eror = 'There is an error... | وقع خطأ';
